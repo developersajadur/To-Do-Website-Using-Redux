@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Link } from "react-router";
 import { ModeToggle } from "../actions/mode-toggle";
